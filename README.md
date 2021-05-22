@@ -14,4 +14,4 @@ I am a penetration tester/red team operator who likes to occasionally write some
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=filipceglik&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipceglik&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
