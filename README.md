@@ -10,7 +10,7 @@ I am a penetration tester/red team operator who likes to occasionally write some
 - 🔭 I’m currently working on researching cloud services for red team operations improvement
 <!-- - 🌱 I’m currently learning sleep -->
 - 👯 I’m looking to collaborate on red team tools development in .NET
-
+- 👯 I’m looking for contributors to work on the OpenMDM
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=filipceglik&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
